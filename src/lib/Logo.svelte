@@ -1,0 +1,1 @@
+<a href="/"> <img src="logoWhite.svg" alt="Logo" /></a>
